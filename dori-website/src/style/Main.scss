@@ -1,0 +1,17 @@
+@import 'normalize.css';
+@import 'settings/Font';
+@import 'settings/Colors';
+@import 'settings/Media';
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  line-height: 1.4em;
+  vertical-align: baseline;
+  text-decoration: none;
+  outline: 0;
+  font-size: 16px;
+}
+
