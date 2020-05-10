@@ -2,21 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22147f13-7cee-4ff9-9538-a76a071a0cb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dori-website/src/components/AboutMe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dori-website/src/components/Form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dori-website/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dori-website/src/components/IntroSection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dori-website/src/components/Recommendation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dori-website/src/style/AboutMe.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dori-website/src/style/Form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dori-website/src/style/Header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dori-website/src/style/IntroSection.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dori-website/src/style/Main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dori-website/src/style/Recommendation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dori-website/src/style/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dori-website/src/style/settings/Colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dori-website/src/style/settings/Font.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dori-website/src/style/settings/Media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dori-website/src/components/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dori-website/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dori-website/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dori-website/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dori-website/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dori-website/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dori-website/src/style/Header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/style/Header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dori-website/src/style/Main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/style/Main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dori-website/src/style/settings/Media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/style/settings/Media.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -82,7 +78,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589051844156</updated>
-      <workItem from="1589051845811" duration="2885000" />
+      <workItem from="1589051845811" duration="3660000" />
+      <workItem from="1589140727727" duration="5162000" />
     </task>
     <servers />
   </component>
@@ -90,9 +87,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="207" y="23" key="#Notifications" timestamp="1589144136723">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="207" y="23" key="#Notifications/0.23.1440.804@0.23.1440.804" timestamp="1589144136723" />
     <state x="263" y="169" key="EditFileWatcherDialog" timestamp="1589054358231">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="263" y="169" key="EditFileWatcherDialog/0.23.1440.804@0.23.1440.804" timestamp="1589054358231" />
+    <state x="359" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589144164213">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="359" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.804@0.23.1440.804" timestamp="1589144164213" />
   </component>
 </project>

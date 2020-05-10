@@ -1,0 +1,38 @@
+.header {
+  width: 100%;
+  height: 170px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  ul {
+    color: $textColor;
+    font-family: $boldFont;
+    font-size: 18px;
+    line-height: 48px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-right: 60px;
+
+    @media #{$mobileSmall} {
+      display: none;
+    }
+  }
+}
+
+li.nav {
+  padding: 20px;
+  @media #{$tablet} {
+    font-size: 18px;
+  }
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+  margin-left: 60px;
+}
+
