@@ -10,12 +10,13 @@
     color: $textColor;
     font-family: $boldFont;
     font-size: 18px;
-    line-height: 48px;
     list-style-type: none;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     margin-right: 60px;
+    position: relative;
+    z-index: 2;
 
     @media #{$mobileSmall} {
       display: none;
@@ -24,7 +25,21 @@
 }
 
 li.nav {
-  padding: 20px;
+  padding: 0 3px;
+  margin: 0 20px;
+  position: relative;
+
+  &:hover::after {
+    content: "";
+    width: 100%;
+    height: 0;
+    left: 0;
+    bottom: 5px;
+    border-bottom: 8px solid deepskyblue;
+    position: absolute;
+    z-index: -1;
+  }
+
   @media #{$tablet} {
     font-size: 18px;
   }
