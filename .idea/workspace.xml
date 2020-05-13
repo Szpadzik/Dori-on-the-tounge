@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="22147f13-7cee-4ff9-9538-a76a071a0cb2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dori-website/src/assets/woman-in-pink-shirt-sitting-by-the-table-while-smiling-4143791.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/assets/woman-in-pink-shirt-sitting-by-the-table-while-smiling-4143791.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dori-website/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dori-website/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/components/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dori-website/src/components/IntroSection.js" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/components/IntroSection.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dori-website/src/style/Header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/style/Header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dori-website/src/style/IntroSection.scss" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/style/IntroSection.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dori-website/src/style/Main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/style/Main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +77,7 @@
       <updated>1589051844156</updated>
       <workItem from="1589051845811" duration="3660000" />
       <workItem from="1589140727727" duration="5713000" />
-      <workItem from="1589185004995" duration="1455000" />
+      <workItem from="1589185004995" duration="8408000" />
     </task>
     <servers />
   </component>

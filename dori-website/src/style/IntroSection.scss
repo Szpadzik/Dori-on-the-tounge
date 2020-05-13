@@ -1,0 +1,58 @@
+
+.intro {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  border: 1px solid $FormTextColor;
+}
+
+.description_box {
+  width: 35%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner_box {
+  width: 65%;
+  height: 534px;
+  background-image: url("../assets/midiumBackgroundImage.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.8;
+  z-index: 1;
+  position: relative;
+}
+
+@media #{$mobileBig} {
+  .banner_box {
+    background-image: url("../assets/smallBackgroundImage.png");
+  }
+}
+
+.welcome_text {
+  width: 600px;
+  height: 215px;
+  font-family: $boldFont;
+  font-size: 4rem;
+  color: white;
+  position: absolute;
+  left: 15%;
+  top: 20%;
+  z-index: 2;
+
+  @media #{$mobileBig} {
+    font-size: 2rem;
+  }
+}
+
+.description_text {
+  width: 80%;
+  height: 90%;
+  border: 7px solid $FormTextColor;
+  background-color: transparent;
+  text-align: center;
+  padding-top: 20%;
+}
+
