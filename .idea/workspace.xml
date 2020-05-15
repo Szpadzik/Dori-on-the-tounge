@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22147f13-7cee-4ff9-9538-a76a071a0cb2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/dori-website/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/components/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dori-website/src/components/AboutMe.js" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/components/AboutMe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dori-website/src/components/IntroSection.js" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/components/IntroSection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dori-website/src/style/AboutMe.scss" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/style/AboutMe.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dori-website/src/style/IntroSection.scss" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/style/IntroSection.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dori-website/src/style/Main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/style/Main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +81,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="207" y="23" key="#Notifications" timestamp="1589144136723">
