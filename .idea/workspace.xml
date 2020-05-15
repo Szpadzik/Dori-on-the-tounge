@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22147f13-7cee-4ff9-9538-a76a071a0cb2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dori-website/src/components/AboutMe.js" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/components/AboutMe.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dori-website/src/components/IntroSection.js" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/components/IntroSection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dori-website/src/style/AboutMe.scss" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/style/AboutMe.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dori-website/src/style/IntroSection.scss" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/style/IntroSection.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dori-website/src/style/Main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/dori-website/src/style/Main.scss" afterDir="false" />
-    </list>
+    <list default="true" id="22147f13-7cee-4ff9-9538-a76a071a0cb2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +69,7 @@
       <workItem from="1589051845811" duration="3660000" />
       <workItem from="1589140727727" duration="5713000" />
       <workItem from="1589185004995" duration="8635000" />
+      <workItem from="1589529392575" duration="250000" />
     </task>
     <servers />
   </component>
@@ -87,7 +81,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
